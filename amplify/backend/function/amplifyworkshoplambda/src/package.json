@@ -8,7 +8,7 @@
     "aws-serverless-express": "^3.3.5",
     "aws-xray-sdk": "^3.0.1",
     "body-parser": "^1.17.1",
-    "express": "^4.15.2"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
